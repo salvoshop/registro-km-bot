@@ -1,0 +1,11 @@
+{
+  "name": "registro-km-bot",
+  "version": "1.0.0",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "xlsx": "^0.18.5",
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0"
+  }
+}
